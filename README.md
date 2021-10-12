@@ -1,6 +1,6 @@
 # 3D-Asteroids
 
-Simple 3D unity game I made for a class. You are a ship in space and are shooting/avoiding asteroids. One hit and you're a goner!
+First actual game I have made. Its a simple 3D unity one made for a class. You are a ship in space and are shooting/avoiding asteroids. One hit and you're a goner!
 
 https://tylerdclark.github.io/3D-Asteroids/
 
