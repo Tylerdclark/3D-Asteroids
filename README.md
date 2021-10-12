@@ -1,10 +1,10 @@
-#3D-Asteroids
+# 3D-Asteroids
 
 Simple 3D unity game I made for a class. You are a ship in space and are shooting/avoiding asteroids. One hit and you're a goner!
 
 https://tylerdclark.github.io/3D-Asteroids/
 
-##Instuctions
+## Instuctions
 
 * Point the mouse to aim (the ship will fire for you)
 * ASDW or arrow keys to move
